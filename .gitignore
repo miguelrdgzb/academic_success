@@ -1,0 +1,8 @@
+# Ignorar cdv
+.csv
+
+# Ignorar archivos de configuración
+academic/
+
+
+
