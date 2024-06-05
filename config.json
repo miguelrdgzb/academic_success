@@ -3,5 +3,9 @@
         "train": "csv/train.csv",
         "test": "csv/test.csv",
         "sample_submission": "csv/sample_submission.csv"
+    },
+
+    "urls": {
+        "kaggleUrl": "https://www.kaggle.com/competitions/playground-series-s4e6/overview"
     }
 }
