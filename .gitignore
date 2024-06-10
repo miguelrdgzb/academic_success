@@ -3,6 +3,8 @@ csv/
 
 # Ignorar archivos de configuración
 academic_success/
+catboost_info/
+.vscode
 
 
 
